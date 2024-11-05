@@ -1,0 +1,6 @@
+[submodule "npm-trial"]
+	path = npm-trial
+	url = https://github.com/winggo12/npm-trial
+[submodule "npm-test"]
+	path = npm-test
+	url = https://github.com/winggo12/npm-test
