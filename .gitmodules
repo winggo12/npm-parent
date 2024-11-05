@@ -4,3 +4,6 @@
 [submodule "npm-test"]
 	path = npm-test
 	url = https://github.com/winggo12/npm-test
+[submodule "is-odd-num"]
+	path = is-odd-num
+	url = https://github.com/absurd-npm/is-odd-num.git
